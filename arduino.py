@@ -16,13 +16,13 @@ while True:
 	z1 = float(ser.readline())
 
 
-	if (abs(x1-x0) <= 40 and abs(y1-y0) <= 40 and abs(y1-y0) <= 40):
+	if (abs(x1-x0) <= 60 and abs(y1-y0) <= 60 and abs(y1-y0) <= 60):
 		ser.write('1')
 		print 'TRUE! TRUE! TRUE!'
 		
 	else: 
 		ser.write('0')
-		print 'FALSE FALSE FALSE!'
+		print 'FALSE! FALSE! FALSE!'
 
 	print ("x1: "+str(x1))
 	print ("y1: "+str(y1))
