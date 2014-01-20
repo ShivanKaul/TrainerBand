@@ -6,3 +6,5 @@ We used an Arduino Uno hooked up to the Triple-axis Accelerometer+Magnetometer (
 We coded in C (for the Arduino interface) and Python (for the high-level processing) for over 25 hours non-stop (substituting sleep for caffeine+pizza) to achieve this. The experience was especially interesting given that none of us had any prior experience with hardware hacking.
 
 Image: http://imgur.com/FcR927y
+
+We = Shivan Kaul and Geoff Long
